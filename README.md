@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Rayson Lopez
 
-<!--
-**RaysonLopez/RaysonLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Ingeniero en Tecnologías de la Información (ESPE)
 
-Here are some ideas to get you started:
+Apasionado por la tecnología, la resolución de problemas mediante la programación y la música, especialmente la guitarra. Me encanta aprender cosas nuevas y enfrentar desafíos que impulsen mi crecimiento profesional y personal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías dominadas
+
+- **Java**
+- **JavaScript**
+- **TypeScript**
+- **HTML**
+- **CSS**
+
+---
+
+## 💡 Sobre mí
+
+- 🧩 Disfruto resolviendo problemas complejos y creando soluciones innovadoras.
+- 🎸 Amante de la guitarra y la música.
+- 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
+- 🤝 Abierto a colaborar en proyectos interesantes.
+
+---
+
+## 📚 Proyectos
+
+*Aún no tengo proyectos favoritos destacados, pero puedes explorar mis repositorios para ver en lo que he estado trabajando.*
+
+---
+
+<!-- Puedes agregar tus redes sociales o portafolio aquí en el futuro -->
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
